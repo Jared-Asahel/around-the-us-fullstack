@@ -1,4 +1,4 @@
-# Tripleten web_project_api_full
+# Tripleten around-the-us-fullstack
 
 Este proyecto consiste en una red social web en la que los usuarios pueden registrarse, iniciar sesión, ver tarjetas con imágenes de distintos lugares del mundo, dar "me gusta", y gestionar sus propios perfiles y publicaciones. Se construyó como parte del curso de desarrollo web completo con **Practicum by Yandex**.
 
